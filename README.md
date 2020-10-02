@@ -1,5 +1,4 @@
-# firstly installing the required packages
-
+# List of openCV python projects in this repo
 # 1. Cartoonization
 To use the code locally, you'll firstly need to have Python v3 installed. You can download it from [https://www.python.org/downloads/], if it isn't already in your system.
 
