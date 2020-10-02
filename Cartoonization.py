@@ -8,7 +8,7 @@ num_bilateral = 7
 
 #q=input('enter image path')
 
-img_rgb = cv2.imread('C:/Users/Nishchal/Pictures/Camera Roll/WIN_20200906_21_13_32_Pro (2).jpg')
+img_rgb = cv2.imread('add image location here')
 
 img_rgb = cv2.resize(img_rgb,(700,600))
 
